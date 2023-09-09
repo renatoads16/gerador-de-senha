@@ -1,3 +1,3 @@
 Acesse o meu Gerador de Senha
 
-https://github.com/renatoads16
+https://renatoads16.github.io/gerador-de-senha/
